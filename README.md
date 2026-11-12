@@ -6,11 +6,11 @@
 
 ## 从 GitHub 部署
 
-使用有访问权限的 GitHub 账户完成 Git/SSH 认证后克隆本私有仓库：
+本仓库已公开，可直接通过 HTTPS 克隆，无需 GitHub 登录：
 
 ```bash
 mkdir -p "$HOME/whisper-subtitles"
-git clone git@github.com:markawonge/srtflow.git "$HOME/whisper-subtitles/srtflow"
+git clone https://github.com/markawonge/srtflow.git "$HOME/whisper-subtitles/srtflow"
 bash "$HOME/whisper-subtitles/srtflow/install.sh"
 ~/.local/bin/srtflow
 ```
