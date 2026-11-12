@@ -1,5 +1,7 @@
 # SRTFlow
 
+**简体中文** | [English](README.en.md)
+
 在 Ubuntu 终端中完成视频语音转写与简体中文字幕翻译。
 
 SRTFlow 使用 **faster-whisper + Silero VAD** 识别语音，通过 **AMD ROCm Docker 容器**运行转写，并在宿主机调用翻译 API。适合通过 SSH 处理英语、日语长视频。
