@@ -1,0 +1,11 @@
+1
+00:00:01,000 --> 00:00:03,000
+Good morning. Did you sleep well?
+
+2
+00:00:04,000 --> 00:00:06,000
+Yes, thank you. Let's leave after breakfast.
+
+3
+00:00:07,000 --> 00:00:09,000
+All right. I'll wait downstairs.
